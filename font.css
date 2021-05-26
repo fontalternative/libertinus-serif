@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('./woff2/LibertinusSerif-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('./woff2/LibertinusSerif-SemiBold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('./woff2/LibertinusSerif-Bold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('./woff2/LibertinusSerif-Italic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('./woff2/LibertinusSerif-SemiBoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif';
+    src: url('./woff2/LibertinusSerif-BoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif Display';
+    src: url('./woff2/LibertinusSerifDisplay-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Libertinus Serif Initials';
+    src: url('./woff2/LibertinusSerifDisplay-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400;
+}
